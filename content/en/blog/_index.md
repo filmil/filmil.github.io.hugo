@@ -1,13 +1,9 @@
 ---
-title: "Docsy Blog"
+# it does not seem that this page's content is shown.
+title: "filmil@ blog"
 linkTitle: "Blog"
 menu:
   main:
     weight: 30
 ---
-
-
-This is the **blog** section. It has two categories: News and Releases.
-
-Files in these directories will be listed in reverse chronological order.
 
